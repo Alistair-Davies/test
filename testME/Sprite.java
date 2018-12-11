@@ -1,4 +1,4 @@
-package testME;
+package ass2.ass2;
 
 import javax.swing.*;
 import java.awt.*;
@@ -7,7 +7,7 @@ import java.awt.event.KeyListener;
 import java.util.ArrayList;
 import java.util.Random;
 
-import static testME.game.instance;
+import static ass2.ass2.game.instance;
 
 public abstract class Sprite extends JPanel {
 

@@ -1,4 +1,4 @@
-package testME;
+package ass2.ass2;
 
 public class game {
     public static frame instance;

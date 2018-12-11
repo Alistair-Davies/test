@@ -1,9 +1,9 @@
-package testME;
+package ass2.ass2;
 
 import javax.swing.*;
 import java.awt.*;
 
-import static testME.game.instance;
+import static ass2.ass2.game.instance;
 
 public class informationPanel extends JPanel {
     public static JLabel scoreMessage;

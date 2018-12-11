@@ -1,4 +1,4 @@
-package testME;
+package ass2.ass2;
 
 import javax.swing.*;
 import javax.swing.text.SimpleAttributeSet;

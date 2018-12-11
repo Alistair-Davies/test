@@ -1,4 +1,4 @@
-package testME;
+package ass2.ass2;
 
 import javax.swing.*;
 import java.awt.*;
@@ -67,7 +67,7 @@ public class Level extends JPanel {
         }
         ArrayList<Integer> collect = new ArrayList<>();
 
-        for (int c=0; c<50; c++) {
+        for (int c=0; c<330; c++) {
             if (!currentLevelInfo.contains(c) && !noCollect.contains(c)) {
                 collect.add(c);
             }
